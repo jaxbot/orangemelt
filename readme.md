@@ -3,7 +3,7 @@ OrangeMelt
 
 A simple HTML5 collaboration game I made a while back and thought I would share, for people curious.
 
-The live version of it is here: http://societyofcode.com/orangemelt
+The live version of it is here: http://jaxbot.me/orangemelt
 
 OrangeMelt is a simple real-time edited world, where anyone can evolve or devolve the OrangeMelt world from their browser.
 
