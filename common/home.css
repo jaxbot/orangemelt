@@ -84,6 +84,7 @@ a:hover { color: #ff7200; text-decoration: none;}
 	left: 0px;
 	right: 0px;
 	height: 30px;
+	z-index: 2;
 }
 #menu {
 	position: fixed;
@@ -95,6 +96,7 @@ a:hover { color: #ff7200; text-decoration: none;}
 	display:none;
 	color: white;
 	padding: 4px;
+	z-index: 2;
 }
 #cursortracker { z-index: 10; position: absolute }
 
