@@ -110,6 +110,9 @@ input {
 #map {
 	position: relative;
 }
+div.tile {
+	position: relative;
+}
 div.grass {
 	background: url(../img/tile_grass.png);
 }
@@ -215,9 +218,8 @@ div.path3 {
 	background: url(../img/path3.png);
 }
 
-
 div {
-display:block;
-margin:0px;
+	display:block;
+	margin:0px;
 	padding:0px;
-	}
+}

@@ -70,6 +70,8 @@ function addObject(cls, x, y, id) {
 	obj.style.top = y + "px";
 	obj.style.left = x + "px";
 	obj.style.position = "absolute";
+	if (cls.indexOf("path") == -1)
+		obj.style.zIndex = 1;
 	obj.id = id;
 	obj.onmousedown = function(e) { handleClick(obj,e); }
 	
